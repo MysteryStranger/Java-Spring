@@ -1,3 +1,4 @@
+Lec_1
 Hello World! 
 Here i gonna show u how to: 
 Do spring Framework projects and working with sprong boot 
@@ -9,3 +10,7 @@ Principles of SOLID (Single Responsobility principle, Open closed principle, Lis
 Interface Segregation principle, Dependency inversion principle, DI in Spring
 Annotations like @Component, @AutoWired
 and for final we take the pom.xl 
+
+Lec_1.2
+A little finish with projects
+interfaces and objects
